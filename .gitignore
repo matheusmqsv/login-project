@@ -1,0 +1,46 @@
+.metadata
+bin/
+tmp/
+target/
+output/
+data/dm1_backup.xlsx
+data/dm2_backup.xlsx
+data/dm3_backup.xlsx
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.classpath
+.project
+.loadpath
+.recommenders
+# External tool builders
+.externalToolBuilders/
+# Locally stored "Eclipse launch configurations"
+*.launch
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+# CDT- autotools 
+.autotools
+# Java annotation processor (APT)
+.factorypath
+# PDT-specific (PHP Development Tools)
+.buildpath
+# sbteclipse plugin
+.target
+# Tern plugin
+.tern-project
+# TeXlipse plugin
+.texlipse
+# STS (Spring Tool Suite)
+.springBeans
+# Code Recommenders
+.recommenders/
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet

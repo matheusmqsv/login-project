@@ -1,0 +1,12 @@
+[ct01] 2019-07-30 00:45:32 ( INFO ) - Navegando para o endereco: https://the-internet.herokuapp.com/login
+[ct03] 2019-07-30 00:45:32 ( INFO ) - Navegando para o endereco: https://the-internet.herokuapp.com/login
+[ct01] 2019-07-30 00:45:35 ( INFO ) - Inserindo o valor: tomsmith
+[ct03] 2019-07-30 00:45:35 ( INFO ) - Inserindo o valor: tomsmith
+[ct01] 2019-07-30 00:45:35 ( INFO ) - Inserindo o valor: SuperSecretPassword!
+[ct04] 2019-07-30 00:45:36 ( INFO ) - Navegando para o endereco: https://the-internet.herokuapp.com/login
+[ct03] 2019-07-30 00:45:36 ( INFO ) - Inserindo o valor: 
+[ct02] 2019-07-30 00:45:36 ( INFO ) - Navegando para o endereco: https://the-internet.herokuapp.com/login
+[ct04] 2019-07-30 00:45:39 ( INFO ) - Inserindo o valor: tomsmith
+[ct04] 2019-07-30 00:45:39 ( INFO ) - Inserindo o valor: SuperSecretPassword!
+[ct02] 2019-07-30 00:45:39 ( INFO ) - Inserindo o valor: tomsmith
+[ct02] 2019-07-30 00:45:39 ( INFO ) - Inserindo o valor: SuperSecretPassword!

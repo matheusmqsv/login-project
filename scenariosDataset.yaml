@@ -1,0 +1,30 @@
+AuthenticationTest:
+        - ct01:
+                browser: "chrome"
+                run: "yes"
+                url: "https://the-internet.herokuapp.com/login"
+                username: "tomsmith"
+                password: "SuperSecretPassword!"
+                expectedResult: "You logged into a secure area!"
+        - ct02:
+                browser: "firefox"
+                run: "yes"
+                url: "https://the-internet.herokuapp.com/login"
+                username: "tomsmith"
+                password: "SuperSecretPassword!"
+                expectedResult: "You logged into a secure area!"
+        - ct03:
+                browser: "chrome"
+                run: "yes"
+                url: "https://the-internet.herokuapp.com/login"
+                username: "tomsmith"
+                password: ""
+                expectedResult: "You logged into a secure area!"
+        - ct04:
+                browser: "firefox"
+                run: "yes"
+                url: "https://the-internet.herokuapp.com/login"
+                username: "tomsmith"
+                password: ""
+                expectedResult: "You logged into a secure area!"
+                
